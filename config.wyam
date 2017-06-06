@@ -3,7 +3,7 @@
 #t Phantom
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
+Settings[Keys.Host] = "drouh.github.io";
 Settings[BlogKeys.Title] = "Dmitry Bubelnik";
 Settings[BlogKeys.Description] = String.Empty;
 
