@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://drouh.github.io/" />
+	<id>http://drouh.github.io/</id>
+	<title>Dmitry Bubelnik</title>
+	<rights>2017</rights>
+	<updated>2017-06-06T18:11:41Z</updated>
+	<entry>
+		<link href="http://drouh.github.io/posts/1" />
+		<id>http://drouh.github.io/posts/1</id>
+		<title>Stub post</title>
+		<updated>2017-06-06T00:00:00Z</updated>
+	</entry>
+</feed>
